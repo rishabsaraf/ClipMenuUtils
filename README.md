@@ -2,7 +2,7 @@
 Custom actions for clip menu
 
 ## Setup
-Copy the action you want to use from the ClipMenuUtils folder to the path ~/Library/Application\ Support/ClipMenu/script/action/
+[Refer here](http://www.clipmenu.com/help/custom-actions/)
 
 ## Actions
 ### remove_brackets.js
